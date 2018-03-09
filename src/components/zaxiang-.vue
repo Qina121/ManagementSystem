@@ -1,0 +1,13 @@
+{
+path:'/employee',
+name:employee,
+component:employee
+},{
+path:'/wages',
+name:wages,
+component:wages
+},{
+path:'/assess',
+name:assess,
+component:assess
+},
